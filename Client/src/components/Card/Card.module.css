@@ -1,0 +1,43 @@
+.card {
+  border: 1px solid #0113066b;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  background-color: rgba(11, 230, 11, 0.301);
+}
+
+.card-container {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  background-color: rgba(1, 1, 14, 0.5);
+  padding: 16px;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+
+.button {
+  background-color: red;
+  color: #d42c2c;
+  border: none;
+  padding: 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.title {
+  margin-top: 8px;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  margin-top: 16px;
+  border-radius: 10px;
+  border-radius: 10px;
+  object-fit: cover;
+}

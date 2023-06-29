@@ -1,0 +1,23 @@
+body {
+  background-image: url('https://occ-0-33-448.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdRqp4l0jjNOyiqwSeGcNg63ubtcRg2ESrcQBegVj3Lga3HkLDMo1J1zG8i7dbginuOpxI_QdYzzC-F0w5gjxslWUaGSX_JvoN9e.jpg?r=f45');
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  text-align: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
